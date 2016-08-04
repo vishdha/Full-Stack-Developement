@@ -1,5 +1,6 @@
 # Full-Stack-Developement
 Project 0: Movie Trailer Website.
+This website contain movie trailers.
 
 # Prerequsite
 python 2.7.0+
