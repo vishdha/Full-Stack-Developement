@@ -5,7 +5,6 @@ toy_story = media.Movie("Toy Story",
                         "A story of a boy and his toys that came into real life",
                         "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=vwyZH85NQC4")
-#print(toy_story.storyline)
 
 central_intelligence = media.Movie("Central Intelligence",
                      "CBI",
@@ -33,11 +32,6 @@ internship = media.Movie("The Internship",
                      "not an average interhsip",
                      "https://upload.wikimedia.org/wikipedia/en/e/ed/The-internship-poster.jpg",
                      "https://www.youtube.com/watch?v=cdnoqCViqUo")
-
-
-
-
-#central_intelligence.show_trailer()
 
 movies = [toy_story,central_intelligence, inception, walk_to_remember,social_network,internship]
 fresh_tomatoes.open_movies_page(movies)
